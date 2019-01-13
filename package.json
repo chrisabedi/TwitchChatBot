@@ -1,0 +1,11 @@
+{
+  "name": "twitchChatBot",
+  "version": "1.0.0",
+  "description": "TwitchChatBot",
+  "main": "index.js",
+  "author": "Chris Abedi",
+  "license": "MIT",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  }
+}
